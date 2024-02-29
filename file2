@@ -1,1 +1,14 @@
+While updating app one message is there... It is git commit message??? 
+
+2 / 2
+
+
+ChatGPT
+Yes, it's quite possible that the message you're seeing during an app update is related to a Git commit message. Developers often use Git for version control, and when they make changes or updates to the software, they commit these changes to their Git repository with a message that describes what has been done. This commit message can sometimes be shown to users in update logs, release notes, or during the update process to inform them about the changes, fixes, or new features included in the update. This practice helps in maintaining transparency about the development process and changes in each version of the app.
+
+
+
+
+
+Message ChatGPT…
 
