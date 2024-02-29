@@ -1,7 +1,13 @@
-# initialize a repository(Folder) - git init       #normal folder to version control system
-# create new file - Touch #filename        
-# staging area - git add #filename      #for confirm or reference
-# commit with message  - git commit -m"changed"       #to know what we have changed
-# git congiure for our identity - git Config --global user.gmail "user@gmail.com"  git config --global user.name "username"
-# add local files to Remote repository - git push -u https://github.com/kannancloud001/dev.git --force
-# go to github - check files which we added....
+# initialize a repository(Folder) -  git init       #normal folder to version control system
+# create new file                 -  Touch #filename        
+# staging area                    -  git add #filename      #for confirm or reference
+# commit with message             -  git commit -m "changed"       #to know what we have changed
+# git congiure for our identity   -  
+git Config --global user.gmail "user@gmail.com"  
+git config --global user.name "username"
+#Configure remote reository      - git remote add origin https://github.com/kannancloud001/dev.git
+# add local files to Remote repository -
+ git push -u https://github.com/kannancloud001/dev.git --force
+# go to github                    - check files which we added....
+# create or upload file in github ------
+# pull the latest changes in repository  - Git pull 
