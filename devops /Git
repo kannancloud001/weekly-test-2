@@ -5,7 +5,7 @@
 # git congiure for our identity   -  
 git Config --global user.gmail "user@gmail.com"  
 git config --global user.name "username"
-#Configure remote reository      - git remote add origin https://github.com/kannancloud001/dev.git
+#Configure remote repository      - git remote add origin https://github.com/kannancloud001/dev.git
 # add local files to Remote repository -
  git push -u origin master --force
 # go to github                    - check files which we added....
